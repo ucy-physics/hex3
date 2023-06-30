@@ -6,9 +6,9 @@ course_semester: "Fall 1998"
 baseurl: "/hex3" # the subpath of your site, e.g. /blog/
 url: "http://ucy-physic.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "University of Cyprus | Department of Physics"
+schoolurl: "https://www.ucy.ac.cy/phy/?lang=en"
+twitter_username: none 
 
 address: |
     Univeristy of Cyprus | Department of Physics 
